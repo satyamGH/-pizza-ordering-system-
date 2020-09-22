@@ -1,0 +1,45 @@
+@CHARSET "ISO-8859-1";
+body
+{
+	background-image:url("Pictures/Pizza.jpg");
+	background-repeat:no-repeat;
+	background-color:#ffffff;
+	background-position: center;
+	background-size: cover;
+}
+input.button
+{
+	text-align="center";
+	width: 100px;
+	background-color: #fcd89d;
+	border-radius: 12px;
+	border: 2px solid #08ff00;
+}
+label.info
+{
+	font-style: oblique;
+	font-size: 1.25em;
+	font-family: monospace;
+	color: #000000;
+}
+h6
+{
+	font-style: oblique;
+	color: #ff0000;
+	font-size: 1.00em;
+	font-family: cursive;
+}
+h1
+{
+	font-style: oblique;
+	color: #004040;
+	font-size: 3.00em;
+	font-family: cursive;
+}
+label.contact
+{
+	font-style: inherit;
+	font-size: 1.00em;
+	font-family: fantasy;
+	color: #000000;
+}
